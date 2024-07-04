@@ -67,8 +67,9 @@ Notes: Mentors are very cool. Owe then a treat.
 - [ ] Machine Learning Fundamentals
 
 Additional
-
 - [ ] stuff
+- [ ] Read documentations on ludwig, predibase, and NVIDIA NeMo
+
 
 ## Yashmitha
 
