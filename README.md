@@ -52,7 +52,8 @@ Additional
 
 Additional
 
-- [.] Features of ModelForge
+- [x] Features of Ludwig
+- [ ] Features of ModelForge
 
 Notes: Mentors are very cool. Owe then a treat.
 
