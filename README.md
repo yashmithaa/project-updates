@@ -78,8 +78,8 @@ Additional
 - [x] Learn fundamentals of Git and VCS
 - [x] Getting Python fundamentals right.
 - [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
-- [ ]Machine Learning Fundamentals
+- [ ] Machine Learning Fundamentals
 
 Additional
 
-- [x] case study on Ludwig [notion-site](https://yashmitha-notes.notion.site/Case-study-Ludwig-ai-4511520faaf34dfa822a6b3332ab2006)
+- [x] case study on Ludwig.ai [notion-site](https://yashmitha-notes.notion.site/Case-study-Ludwig-ai-4511520faaf34dfa822a6b3332ab2006)
