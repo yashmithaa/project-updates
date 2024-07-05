@@ -67,19 +67,19 @@ Notes: Mentors are very cool. Owe then a treat.
 - [ ] Machine Learning Fundamentals
 
 Additional
+
 - [ ] stuff
 - [ ] Read documentations on ludwig, predibase, and NVIDIA NeMo
-
 
 ## Yashmitha
 
 ### Week 1
 
-- [ ] Learn fundamentals of Git and VCS
-- [ ] Getting Python fundamentals right.
-- [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
-- [ ] Machine Learning Fundamentals
+- [x] Learn fundamentals of Git and VCS
+- [x] Getting Python fundamentals right.
+- [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
+- [ ]Machine Learning Fundamentals
 
 Additional
 
-- [ ] stuff
+- [x] case study on Ludwig [notion-site](https://yashmitha-notes.notion.site/Case-study-Ludwig-ai-4511520faaf34dfa822a6b3332ab2006)
